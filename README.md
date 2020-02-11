@@ -1,2 +1,2 @@
-# Trending-Youtube-Videos
+# Trending Youtube Videos
 This is a jupyetr notebook of a data project in which I tried to get some insights into trending videos on Youtube. The dataset is publicly available on kaggle.com and was provided by Youtube. This project serves as my capstone project for the Data Science Career Path on Codeacademy.com. All the work reported in the notebook including the problem definition, cleaning, reducing and preparing the data and the exploratory data analysis is original.
